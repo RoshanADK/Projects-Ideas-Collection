@@ -1,0 +1,17 @@
+Health Prediction using Data Mining : http://nevonprojects.com/smart-health-prediction-using-data-mining/
+Remote User Recognition : http://nevonprojects.com/remote-user-recognition-and-access-provision/
+Face Detection : http://nevonprojects.com/collective-face-detection/
+Fingerprint attendance : http://nevonprojects.com/student-attendance-with-fingerprint-reader/
+Data protection Hand gesture : http://nevonprojects.com/data-protection-using-hand-gesture-recognition/
+Cancer Data Mining : http://nevonprojects.com/cancer-prediction-using-data-mining/
+ML detect Phising : http://nevonprojects.com/detecting-phishing-websites-using-machine-learning/
+Chatbot College Enquire :  http://nevonprojects.com/college-enquiry-chat-bot/
+Intelligent Chatbot :  http://nevonprojects.com/intelligent-chat-bot/
+ Video Survillance http://nevonprojects.com/video-surveillance-software/
+Edge Detection : http://nevonprojects.com/edge-detection/
+AI Desktop Partner : http://nevonprojects.com/ai-desktop-partner/
+Stock Market Analyzer :  http://nevonprojects.com/stock-market-analyzer/
+
+
+Py Proj
+https://learn.techcus.com/p/BJjDUQlWl

@@ -1,0 +1,11 @@
+Visit link :  cs229.stanford.edu/proj2016/
+
+
+Papers Example : 
+
+Abhimanyu Bannerjee, Asha Chigurupati, Identifying Gender From  Facial Features
+Aditya Bhandari, Ameya Joshi, Rohit Patki, Bird Species Identification from an Image
+Andrew Crudge, Will Thomas, Kaiyuan Zhu, Landmark Recognition Using Machine Learning
+Angela Xue, Nick Dupoux, Predicting the Commercial Success of Songs Based on Lyrics and Other Metrics
+Bin Wang, Shaoming Feng, Hierarchical Classification of Amazon Products
+Christopher Aberger, Recommender system
